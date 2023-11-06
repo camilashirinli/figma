@@ -28,7 +28,7 @@ input{
     border-radius: 10px;
 }
 element.style {
-    padding: 20px 0px;
+    padding: 20px 0;
 }
 .listCheck{
     position: relative;
