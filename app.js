@@ -76,7 +76,7 @@ if(tasks.childElementCount == 0){
   let checkDU = false;
   
   function sortItems(){
-    var i, switching, b, shouldSwitch, dir, switchcount = 0;
+    let i, switching, b, shouldSwitch, dir, switchcount = 0;
     switching = true;
     dir = "asc"; 
     while (switching) {
